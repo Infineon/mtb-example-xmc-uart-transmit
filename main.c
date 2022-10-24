@@ -10,7 +10,7 @@
 *
 ******************************************************************************
 *
-* Copyright (c) 2015-2021, Infineon Technologies AG
+* Copyright (c) 2021, Infineon Technologies AG
 * All rights reserved.                        
 *                                             
 * Boost Software License - Version 1.0 - August 17th, 2003
@@ -47,6 +47,7 @@
 /*******************************************************************************
 * Defines
 *******************************************************************************/
+
 /* Declarations for LED toggle and UART transmission timing */
 #define TICKS_PER_SECOND        1000
 #define TICKS_WAIT              1000
